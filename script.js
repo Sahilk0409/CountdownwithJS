@@ -1,5 +1,5 @@
 // Set target date to April 29, 2025
-const targetDate = new Date("April 20, 2025 23:20:00").getTime();
+const targetDate = new Date("April 29, 2025 00:00:00").getTime();
 
 // Function to update the countdown
 function updateCountdown() {
